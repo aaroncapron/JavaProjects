@@ -1,8 +1,8 @@
 /* Author: Aaron Capron
-  Instructor: TA Ali Nouri
-  CS 1101
-  This code turns a numerical grade (integer) into a letter grade (A, B, C, D, F) using "if" and "else if" statements.
-  Last modified: 2/1/2024
+   Instructor: TA Ali Nouri
+   CS 1101
+   This code turns a numerical grade (integer) into a letter grade (A, B, C, D, F) using "if" and "else if" statements.
+   Last modified: 2/1/2024
 */
 
 import java.util.Scanner;
