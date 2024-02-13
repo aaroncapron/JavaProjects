@@ -1,7 +1,7 @@
 /* Author: Aaron Capron
    Personal Project
-   Last Updated: 2/12/2024
    This program sums all the numbers in the range provided by user-input (lowerBound, upperBound)
+   Last Updated: 2/12/2024
 */
 import java.util.Scanner;
 public class intAdd2{
