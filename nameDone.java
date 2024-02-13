@@ -1,8 +1,8 @@
 /* Author: Aaron Capron
    Instructor: Prof. Daniel Meija
    CS 1301
-   Last Updated: 2/12/2024
    This program asks user for a name and prints it until "END" is printed, ending the loop
+   Last Updated: 2/12/2024
 */
 import java.util.Scanner;
 public class nameDone{
