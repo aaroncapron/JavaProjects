@@ -1,7 +1,8 @@
 /* Author: Aaron Capron
    Personal Project
    Last Updated: 2/12/2024
-   This code sums all user-input integers until user enters a negative integer
+   This program continuously ask for an integer until you enter a negative integer
+   Then, it prints the sum of all entered numbers (not including negative integer)
 */
 import java.util.Scanner;
 public class intAdd1{
