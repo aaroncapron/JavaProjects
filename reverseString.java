@@ -1,6 +1,6 @@
 /* Author: Aaron Capron
    Personal Project
-   This code will reverse user-input strings
+   This program will reverse user-input strings
    Last modified: 2/9/2024
 */
 import java.util.Scanner;
