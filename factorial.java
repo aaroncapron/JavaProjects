@@ -1,6 +1,5 @@
 /* Author: Aaron Capron
-   Instructor: Prof. Daniel Meija
-   CS 1301
+   Personal Project
    Last Updated: 2/12/2024
    This code finds factorials of a user-input variable, 'n'
 */
