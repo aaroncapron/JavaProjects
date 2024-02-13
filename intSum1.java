@@ -5,7 +5,7 @@
    Last Updated: 2/12/2024
 */
 import java.util.Scanner;
-public class intAdd1{
+public class intSum1{
    public static void main(String [] args) {
       int number = 0;
       int counter = 0;
