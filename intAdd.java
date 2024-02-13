@@ -1,5 +1,4 @@
-/* 
-   Author: Aaron Capron
+/* Author: Aaron Capron
    Personal Project
    Last Updated: 2/12/2024
    This code sums all user-input integers until user enters a negative integer
