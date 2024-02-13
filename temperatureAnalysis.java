@@ -1,7 +1,8 @@
 /* Author: Aaron Capron
    Instructor: TA Ali Nouri
    CS 1101
-   This code reads text from a file using the scanner and prints it.
+   This code reads temperature values from a .csv file and uses them for various calculations
+   Finds the average, highest, lowest, and all values over 25 degrees from temperatures.csv
    Last Updated: 2/7/2024
 */
 import java.io.File;
