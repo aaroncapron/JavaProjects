@@ -3,7 +3,7 @@
 	Course: CS 1101
  	Instructor: TA Ali Nouri
  	This code asks user questions to determine a movie snack recommendations using boolean logic and integer values. Then, the code asks user to leave a review to respond with using integers.
- 	Last Modified: 2/1/2024
+ 	Last Modified: 2/7/2024
 */
 
 import java.util.Scanner;
