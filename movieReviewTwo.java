@@ -1,6 +1,6 @@
 /* Author: Aaron Capron
    Instructor: TA Ali Nouri
-   Course: CS 1101
+   CS 1101
    This program writes out a movie review that is partially user-input.
    ATTENTION: ALL USER INPUTS MUST NOT HAVE SPACES, USE CAMELCASE FORMAT!!!
    Last modified: 2/7/2024
