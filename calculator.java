@@ -2,6 +2,7 @@
    Instructor: TA Ali Nouri
    CS 1101
    This code is a Java-powered calculator, complete with addition, subtraction, multiplication, and division.
+   Last modified: 2/7/2024
 */
 
 import java.util.Scanner;
