@@ -1,6 +1,5 @@
 /* Author: Aaron Capron
-   Instructor: Prof. Daniel Meija
-   CS 1301
+   Personal Project
    Last Updated: 2/12/2024
    This program asks user for upper and lower bounds to print out integer values in-between
    This time, every multiple of 3 prints "UTEP" and every multiple of 5 prints "Miners"
