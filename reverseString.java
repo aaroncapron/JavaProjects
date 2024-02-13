@@ -1,4 +1,7 @@
-//This code will reverse user-input strings
+/* Author: Aaron Capron
+   This code will reverse user-input strings
+   Last modified: 2/9/2024
+*/
 import java.util.Scanner;
 public class reverseString {
 	public static void main (String [] args) {
