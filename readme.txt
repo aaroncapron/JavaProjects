@@ -1,0 +1,2 @@
+- This repository is Java only
+- As I learn more coding languages, there will be more repositories for each language (until I find a better way to organize it all)
