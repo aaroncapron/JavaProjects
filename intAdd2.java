@@ -1,8 +1,7 @@
 /* Author: Aaron Capron
    Personal Project
    Last Updated: 2/12/2024
-   This code sums all integer values between an upper bound and a lower bound,
-   both of which are variables set by user
+   This program sums all the numbers in the range provided by user-input (lowerBound, upperBound)
 */
 import java.util.Scanner;
 public class intAdd2{
