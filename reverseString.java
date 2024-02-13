@@ -12,8 +12,8 @@ public class reverseString {
 		String stringinput = input.next();
 
 		char[] resultarray = stringinput.toCharArray();
-        for (int i = resultarray.length - 1; i >= 0; i--)
-
-        System.out.print(resultarray[i]);
+       		for (int i = resultarray.length - 1; i >= 0; i--) {
+			System.out.print(resultarray[i]);
+		}
 	}
 }
