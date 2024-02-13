@@ -1,5 +1,5 @@
 /* Author: Aaron Capron
-   Instructor: TA Ali
+   Instructor: TA Ali Nouri
    CS 1101
    This program prints out a user-interactive Certificate of Training
 */
