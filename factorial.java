@@ -1,7 +1,7 @@
 /* Author: Aaron Capron
    Personal Project
-   Last Updated: 2/12/2024
    This program computes the factorial of user-input variable n
+   Last Updated: 2/12/2024
 */
 import java.util.Scanner;
 public class factorial{
