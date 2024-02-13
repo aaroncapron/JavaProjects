@@ -1,10 +1,10 @@
-// Author: Aaron Capron
-// Instructor: TA Ali Nouri
-// CS1101
-// Lab 2 (OfficeHours)
-// This code dispalys the office hours of TA and IAs on terminal using variables
-// Sufficient practice using variables instead of typing
-// NOTE: Names and hours were changed and flip numerous times for campus safety
+/* Author: Aaron Capron
+   Instructor: TA Ali Nouri
+   CS1101
+   This code dispalys the office hours of TA and IAs on terminal using variables
+   NOTE: Names and hours were changed and flip numerous times for campus safety
+   Last modified: 1/24/2024
+*/
 
 class officeHours{
 	public static void main(String[] args) {
