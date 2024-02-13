@@ -2,6 +2,7 @@
    Instructor: TA Ali Nouri
    CS 1101
    This program prints out a user-interactive Certificate of Training
+   Last modified: 1/29/2024
 */
 import java.util.Scanner;
 public class certificate {
