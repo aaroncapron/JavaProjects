@@ -4,7 +4,7 @@
    This code sums all user-input integers until user enters a negative integer
 */
 import java.util.Scanner;
-public class intAdd{
+public class intAdd1{
    public static void main(String [] args) {
       int number = 0;
       int counter = 0;
