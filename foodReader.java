@@ -2,6 +2,7 @@
    Instructor: TA Ali Nouri
    CS 1101
    This code reads text from a file using the scanner and prints it.
+   Last modified: 1/31/2024
 */
 
 //Imported libraries to make stuff work!
