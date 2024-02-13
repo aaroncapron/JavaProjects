@@ -1,7 +1,9 @@
-//Author: Aaron Capron
-//
+// Author: Aaron Capron
+// Instructor: TA Ali Nouri
+// CS 1101
+// This code prints out a weather forecast based on variables and user-input
 
-class Variables {
+class variables {
 	
 	public static void main(String[] args) {
 
