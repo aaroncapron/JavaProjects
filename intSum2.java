@@ -4,7 +4,7 @@
    Last Updated: 2/12/2024
 */
 import java.util.Scanner;
-public class intAdd2{
+public class intSum2{
    public static void main(String [] args) {
       Scanner scanner = new Scanner(System.in);
       int lowerBound = scanner.nextInt();
