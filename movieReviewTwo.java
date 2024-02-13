@@ -6,7 +6,7 @@
 */
 
 import java.util.Scanner;
-class MovieReviewTwo {
+class movieReviewTwo {
 	public static void main(String[] args) {
 
 		//All variables are defined here
