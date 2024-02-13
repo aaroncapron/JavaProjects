@@ -2,9 +2,9 @@
 // Instructor: TA Ali Nouri
 // CS 1101
 // This code prints out a weather forecast based on variables and user-input
+// Last modified: 2/22/2024
 
 class variables {
-	
 	public static void main(String[] args) {
 
 		int temperature = 54;
